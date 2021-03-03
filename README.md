@@ -10,11 +10,11 @@ See example_log_file.txt to see how the script logs information.
 
 **Features**  
 Automatically grabs and outputs machine specifications to a timestamped txt file, including:  
-*Computer name  
+Computer name  
 Make/Model/Serial Number  
 CPU/GPU/RAM/C:\ information  
 Windows License status   
-Wireless card info*  
+Wireless card info  
 
 Basic ping out to Google DNS for connectivity status. 
 
