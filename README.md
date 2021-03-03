@@ -6,6 +6,8 @@ Created to help automate some aspects of the hardware testing process/mass deplo
 
 Put it on a USB stick and run techbot_v2.bat on the target machine!
 
+See example_log_file.txt to see how the script logs information. 
+
 !Features  
 Automatically grabs and outputs machine specifications to a timestamped txt file, including:  
 *Computer name  
