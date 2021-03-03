@@ -1,0 +1,14 @@
+//////////////////////////// Scan Details //////////////////////////// 
+2021-03-03 / 13:16:34 
+Details For: DESKTOP-V6O25M8 
+Manufacturer: Dell Inc. 
+Model: OptiPlex 3010 
+Serial Number: G3S4GX1 
+Operating System: Microsoft Windows 10 Pro 
+Windows(R), Professional edition: The machine is permanently activated. 
+Computer Processor: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz 
+Drive Space: 1,999,49 GB 
+RAM: 8094 MB 
+GPU: Intel(R) HD Graphics 
+Wireless:  
++-------------------------------------------------------------------+ 
