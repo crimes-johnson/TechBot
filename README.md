@@ -26,11 +26,11 @@ Windows camera app for camera testing
 
 When the script ends you can opt to reset Windows to factory setup
   
-Deprecated features:  
+**Deprecated features:**  
 *Automatically connect to specified WiFi SSID* - hard to do cleanly in batch, it worked but not 100%  
 *Perflogs* - basic diagnostic tool but if you need to run diags just use the built in ones 
   
-Features to implement:  
+**Features to implement:**  
 Spanning tree of options to select specific testing features  
 Automated component testing  
 Network based script deployment  
