@@ -8,7 +8,7 @@ Put it on a USB stick and run techbot_v2.bat on the target machine!
 
 See example_log_file.txt to see how the script logs information. 
 
-!Features  
+**Features**  
 Automatically grabs and outputs machine specifications to a timestamped txt file, including:  
 *Computer name  
 Make/Model/Serial Number  
@@ -19,16 +19,16 @@ Wireless card info*
 Basic ping out to Google DNS for connectivity status. 
 
 Opens several component tests:  
-*Youtube video for audio/speakers  
+Youtube video for audio/speakers  
 Mictest website for microphone testing  
 Keyboard testing website for keyboard testing  
-Windows camera app for camera testing*  
+Windows camera app for camera testing 
 
 When the script ends you can opt to reset Windows to factory setup
   
 Deprecated features:  
-*Automatically connect to specified WiFi SSID - hard to do cleanly in batch, it worked but not 100%  
-Perflogs - basic diagnostic tool but if you need to run diags just use the built in ones*  
+*Automatically connect to specified WiFi SSID* - hard to do cleanly in batch, it worked but not 100%  
+*Perflogs* - basic diagnostic tool but if you need to run diags just use the built in ones 
   
 Features to implement:  
 Spanning tree of options to select specific testing features  
